@@ -1,0 +1,5 @@
+# Local harness config (not part of the portable skill collection)
+opencode.json
+.opencode/
+.claude/
+CLAUDE.md
